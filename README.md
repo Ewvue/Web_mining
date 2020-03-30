@@ -1,4 +1,3 @@
-# Web_mining
 * ##### 参考：
 
 * [requests-html基础](https://blog.csdn.net/u011054333/article/details/81055423)
@@ -9,15 +8,23 @@
 
 
 ---
+### 保存备份：
+![保存备份](https://github.com/Ewvue/Web_mining/blob/master/img/保存备份文档.png)
 
 ### 两个方法抓取页面简单信息：
-* CSS selector（选择器）
+* CSS selector（选择器）r.html.find('')
 
 ![css](https://github.com/Ewvue/Web_mining/blob/master/img/week1.css查找.png)
 
-* Xpath抓取
+* Xpath抓取 r.html.xpath('')
 
 ![xpath](https://github.com/Ewvue/Web_mining/blob/master/img/week1.xpath.png)
+
+### pandas输出xlsx：
+![输出xlsx](https://github.com/Ewvue/Web_mining/blob/master/img/pandas输出xlsx.png)
+
+![导出excel](https://github.com/Ewvue/Web_mining/blob/master/img/导出excel.png)
+
 
 
 
